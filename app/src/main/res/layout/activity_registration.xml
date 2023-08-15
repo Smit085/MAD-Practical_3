@@ -199,7 +199,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:paddingHorizontal="50dp"
-                                android:text="LogIn"
+                                android:text="Register"
                                 android:textColor="#FFFFFF"
                                 android:textSize="18sp"
                                 android:layout_gravity="center"/>
@@ -218,13 +218,13 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Don't have account?Try"
+                        android:text="Do you have an account?Try"
                         android:textSize="16sp"/>
 
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="SignUp"
+                        android:text="LogIn"
                         android:textColor="@color/red"
                         android:textSize="16sp"
                         android:padding="0dp"
